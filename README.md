@@ -1,7 +1,8 @@
  # Welcome! :white_heart:	
  
-<p>I'm a web developer based in Florianópolis, Brazil.</p>
+<p>As a Frontend Developer I can create and build multiples creative ideas for your website or application.</p>
 <p>If you have something beautiful to share with the world, I can help you with that. Just say "olá"! :bee:</p>
+
 
 ## :hammer_and_wrench: Stacks
 
